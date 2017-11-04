@@ -4,7 +4,7 @@ development:
   reconnect: false
   database: behind-the-popcorn
   pool: 5
-  username: 32963
+  username: root
   password: ha223UPS&!ee!
   socket: /srv/run/mysqld/mysqld.sock
 test:
@@ -23,6 +23,6 @@ production:
   reconnect: false
   database: behind-the-popcorn
   pool: 5
-  username: 32963
+  username: root@localhost
   password: ha223UPS&!ee!
   socket: /srv/run/mysqld/mysqld.sock
