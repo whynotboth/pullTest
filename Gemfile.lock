@@ -104,9 +104,6 @@ GEM
       mini_portile2 (~> 2.3.0)
     nokogiri (1.8.1-x86-mingw32)
       mini_portile2 (~> 2.3.0)
-    passenger (5.1.11)
-      rack
-      rake (>= 0.8.1)
     public_suffix (3.0.0)
     puma (3.10.0)
     rack (2.0.3)
@@ -207,7 +204,6 @@ DEPENDENCIES
   jquery-rails
   lsof (~> 0.3.0)
   mysql2
-  passenger (>= 5.0.25)
   puma (~> 3.7)
   rails (~> 5.1.4)
   rubypants
