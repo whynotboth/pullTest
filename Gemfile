@@ -50,8 +50,6 @@ gem 'docx', '~> 0.2.07', :require => ["docx"]
 gem 'erubis'
 gem 'lsof', '~> 0.3.0'
 
-# Use Capistrano for deployment
-# gem 'capistrano-rails', group: :development
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
