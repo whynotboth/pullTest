@@ -49,6 +49,7 @@ gem 'zip-zip' # will load compatibility for old rubyzip API.
 gem 'docx', '~> 0.2.07', :require => ["docx"]
 gem 'erubis'
 gem 'lsof', '~> 0.3.0'
+gem 'rack'
 
 
 group :development, :test do
